@@ -1,24 +1,4 @@
-# README
+# ancestryのミニアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+階層構造のカテゴリーを実装したミニアプリです。
+[![Image from Gyazo](https://i.gyazo.com/2f76f9e35710996f78697a9bc86f3c1b.gif)](https://gyazo.com/2f76f9e35710996f78697a9bc86f3c1b)
